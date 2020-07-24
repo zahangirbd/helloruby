@@ -1,0 +1,16 @@
+1. Check ruby version
+$ ruby  -v
+
+2. Update rubygemes
+$gem update --system
+
+3. Check version
+$gem  -v
+
+4. Installing a package
+$gem install package_name
+
+5. Run unit testing using rake
+Go to helloruby
+helloruby$rake
+ 
